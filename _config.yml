@@ -1,0 +1,10 @@
+theme: jekyll-theme-dinky
+
+# Site Settings
+locale                   : "es-ES"
+title                    : "Midiendo la web"
+title_separator          : "|"
+name                     : "Emirodgar"
+google_analytics         : "UA-115546085-1"
+twitter_username: emirodgar
+github_username:  emirodgar
