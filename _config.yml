@@ -1,10 +1,7 @@
-theme: jekyll-theme-dinky
-
 # Site Settings
 locale                   : "es-ES"
 title                    : "Estrategias digitales"
 title_separator          : "|"
 name                     : "Emirodgar"
-google_analytics         : "UA-112489553-3"
 twitter_username: emirodgar
 github_username:  emirodgar
