@@ -1,7 +1,3 @@
----
-description: Blog de Emirodgar, especialista en estrategias digitales.
----
-
 # Blog digital
 
 Bienvenidos a mi blog personal. Me llamo [Emilio](https://emirodgar.com) y trabajo como Jefe de Proyectos Big Data en Smartup. Anteriormente he trabajado como director de analítica, analista y consultor SEO.
