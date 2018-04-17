@@ -1,6 +1,6 @@
-# Emirodgar - blog digital
+# Blog digital
 
-Bienvenidos a mi blog personal. Es mi pequeño rincón en la red para hablar de mis pasiones así que espero que os guste. Está programado en HTML/AMP y alojado en GitHub.
+Bienvenidos a mi blog personal. Me llamo [Emilio](https://emirodgar.com) y trabajo como Jefe de Proyectos Big data en Smartup. 
 
 <h2>Últimas publicaciones</h2>
 
@@ -11,4 +11,4 @@ Bienvenidos a mi blog personal. Es mi pequeño rincón en la red para hablar de 
 
 - [Diferencias entre Chief Digital Officer y Chief Data Officer](estrategia/diferencia-chief-data-officer-chief-digital-officer.html)
 
-
+Este proyecto está programado en HTML/AMP y alojado en GitHub.
