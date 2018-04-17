@@ -1,3 +1,7 @@
+---
+description: El término CDO es muy utilizado hoy en día pero ¿sabemos la diferencia entre Data y Digital?
+---
+
 # ¿Cuál es la diferencia entre Chief Data Officer y Chief Digital Officer?
 
 La transformación digital sigue su curso y cada vez más rápido. Surgen nuevos términos para tareas conocidas y nuevos puestos de trabajo que buscan la eficiencia en un mundo gobernado por el dato. Las empresas se afanan por contratar directivos con experiencia en estas *nuevas* áreas y con ello se pone de moda el término **CDO**.
