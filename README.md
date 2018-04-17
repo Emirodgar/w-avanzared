@@ -6,6 +6,6 @@
 
 <h3>Abril</h3>
 
-- Diferencias entre Chief Digital Officer y Chief Data Officer
+- [Diferencias entre Chief Digital Officer y Chief Data Officer](diferencia-chief-data-officer-chief-digital-officer.md)
 
 
