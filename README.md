@@ -4,11 +4,11 @@ Bienvenidos a mi blog personal. Es mi pequeño rincón en la red para hablar de 
 
 <h2>Últimas publicaciones</h2>
 
-- [Diferencias entre Chief Digital Officer y Chief Data Officer](estrategias/diferencia-chief-data-officer-chief-digital-officer.html)
+- [Diferencias entre Chief Digital Officer y Chief Data Officer](estrategia/diferencia-chief-data-officer-chief-digital-officer.md)
 
 
 <h3>Estrategias</h3>
 
-- [Diferencias entre Chief Digital Officer y Chief Data Officer](estrategias/diferencia-chief-data-officer-chief-digital-officer.html)
+- [Diferencias entre Chief Digital Officer y Chief Data Officer](estrategia/diferencia-chief-data-officer-chief-digital-officer.html)
 
 
