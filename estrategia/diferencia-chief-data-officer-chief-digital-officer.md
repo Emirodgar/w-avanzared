@@ -8,7 +8,7 @@ El origen de estos términos se remonta al año 2004 aunque [como podemos ver en
 
 ## Chief Digital Officer
 
-El origen de este rol se encuentra en el comercio electrónico y en las estrategias de marketing online. Hoy en día es fundamental para poder mantener la innovación dentro de la empresa.
+El origen de este puesto se encuentra en el comercio electrónico y en las estrategias de marketing online. Hoy en día es fundamental para poder mantener la innovación dentro de la empresa.
 
 Las responsabilidades principales son:
 
