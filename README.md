@@ -1,5 +1,11 @@
 # Emirodgar - blog digital
 
-> Este libro **está en beta** por lo que está lejos de su versión final.
+> Bienvenidos a mi blog personal
 
-Aquí pondré el listado de los últimos artículos
+<h2>Publicaciones 2018</h2>
+
+<h3>Abril</h3>
+
+- Diferencias entre Chief Digital Officer y Chief Data Officer
+
+
