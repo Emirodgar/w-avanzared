@@ -1,7 +1,6 @@
 <!doctype html>
 <html ⚡ lang="{{ site.lang | default: "es-ES" }}">
   <head>
-    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
 <link rel="icon" href="https://cdn.emirodgar.com/images/hash.png">
     {% seo %}
@@ -10,11 +9,10 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    
+    <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
     <style amp-custom>
   
   /** Syntax highlighting styles */
@@ -245,19 +243,24 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
     </div>
 	  
   </article>
-</main>
-
-     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-    {% if site.google_analytics %}
-      <script type="text/javascript">
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-        ga('create', '{{ site.google_analytics }}', 'auto');
-        ga('send', 'pageview');
-      </script>
-    {% endif %}
-    
+</main>   
+	  
+	  
+	  <amp-analytics type="googleanalytics">
+<script type="application/json">
+{
+  "vars": {
+    "account": "UA-112489553-3"
+  },
+  "triggers": {
+    "trackPageviewWithCustomUrl": {
+      "on": "visible",
+      "request": "pageview"
+    }
+  }
+}
+</script>
+</amp-analytics>
+	  
   </body>
 </html>
