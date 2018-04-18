@@ -15,7 +15,7 @@ Todo esto, aunque ficción, se basa en una realidad aplastante: estamos expuesto
 
 La NASA inició en 1998 el programa [Near-Earth Object - NEO](https://cneos.jpl.nasa.gov) para catalogar y vigilar aquellos asteroides con un tamaño superior a los 140 metros y cuya órbita pudiera entrar en colisión con nuestro planeta. A día de hoy han identificado más de 11.000 cuerpos celestes con estas características. 
 
-El principal programa de la NASA para evitar la colisión es [Double Asteroid Redirection Test - DART](http://dart.jhuapl.edu) el cuál está basado en pequeños impactos sobre los asterioides para alterar sus órbitas. En el 2022 se realizará la [primera prueba de colisión sobre Didymos A](https://www.nasa.gov/feature/nasa-s-first-asteroid-deflection-mission-enters-next-design-phase), asteroide de 780 metros de diámetro.
+El principal programa de la NASA para evitar la colisión es [Double Asteroid Redirection Test - DART](http://dart.jhuapl.edu) el cuál está basado en pequeños impactos sobre los asteroides para alterar sus órbitas. En el 2022 se realizará la [primera prueba de colisión sobre Didymos A](https://www.nasa.gov/feature/nasa-s-first-asteroid-deflection-mission-enters-next-design-phase), asteroide de 780 metros de diámetro.
 
 ## Realidad de nuestra tecnología y capacidad de reacción
 
