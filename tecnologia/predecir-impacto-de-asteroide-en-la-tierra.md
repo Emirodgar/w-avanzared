@@ -21,10 +21,9 @@ El principal programa de la NASA para evitar la colisión es [Double Asteroid Re
 
 Identificar y desviar un objeto amenazante no es tarea fácil y prueba de ello es el [meteorito de 20 metros que impactó en Rusia en 2013](http://earthsky.org/space/meteor-asteroid-chelyabinsk-russia-feb-15-2013) causando más de 1.500 heridos y que [la ESA rápidamente desvinculó con el asteroide 2012 DA14](https://twitter.com/esaoperations/status/302334765812572160) de 44 metros de diámetro que estaban vigilando por su proximidad a nuestro plantea.
 
-<amp-twitter width="375"
-  height="472"
+<amp-twitter 
   layout="responsive"
-  data-tweetid="885634330868850689">
+  data-tweetid="302334765812572160">
 </amp-twitter>
 
 Otro ejemplo lo tenemos con el [laboratorio espacial chino Tiangong-1](https://edition.cnn.com/2018/03/29/asia/tiangong-1-china-space-lab-intl/index.html) que cayó a la Tierra -sin control- durante marzo de 2018.
