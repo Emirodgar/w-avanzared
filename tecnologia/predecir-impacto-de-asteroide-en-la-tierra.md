@@ -30,7 +30,7 @@ Identificar y desviar un objeto amenazante no es tarea fácil y prueba de ello e
 
 Otro ejemplo lo tenemos con el [laboratorio espacial chino Tiangong-1](https://edition.cnn.com/2018/03/29/asia/tiangong-1-china-space-lab-intl/index.html) que cayó a la Tierra -sin control- durante marzo de 2018.
 
-Lo más preocupante hasta la fecha ha ocurrido el 14 de abril de 2018 cuando el asteroide 2018 GE3 -de entre 50 y 100 metros de diámetro- [ha sido detectado con menos de 22 horas de antelación](https://www.sciencealert.com/giant-football-field-size-asteroid-surprise-flyby-earth) y a menos distancia que la Luna.
+Lo más preocupante hasta la fecha ha ocurrido el 14 de abril de 2018 cuando el asteroide **2018 GE3** -de entre 50 y 100 metros de diámetro- [ha sido detectado con menos de 22 horas de antelación](https://www.sciencealert.com/giant-football-field-size-asteroid-surprise-flyby-earth) y a menos distancia que la Luna.
 
 <amp-twitter 
   width="375"
