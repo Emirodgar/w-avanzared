@@ -1,6 +1,6 @@
 # Blog digital
 
-Bienvenidos a mi blog personal. Me llamo [Emilio](https://emirodgar.com) y trabajo como Jefe de Proyectos Big Data en Smartup. Anteriormente he trabajado como director de analítica, analista y consultor SEO.
+Bienvenidos a mi blog personal. Me llamo Emilio, soy natural de Salamanca y trabajo como Jefe de Proyecto Big Data en Smartup. Anteriormente he trabajado como director, analista y consultor SEO.
 
 <h2>Últimas publicaciones</h2>
 
