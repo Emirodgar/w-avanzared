@@ -1,5 +1,8 @@
 ---
 description: ¿Puede servir el Big Data y la tecnología para prededir el impacto de asteroides sobre la Tierra?
+lang: es_ES
+author:
+  twitter: emirodgar
 ---
 
 # Predecir el impacto de un asteroide en la Tierra
