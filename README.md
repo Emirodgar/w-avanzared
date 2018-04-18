@@ -1,6 +1,6 @@
 # Blog digital
 
-Bienvenidos a mi blog personal. Me llamo Emilio, soy natural de Salamanca y trabajo como Jefe de Proyecto Big Data en Smartup. Anteriormente he trabajado como director, analista y consultor SEO.
+Bienvenidos a mi blog personal. Me llamo Emilio y trabajo como Jefe de Proyecto Big Data en Smartup. Anteriormente he trabajado como director, analista y consultor SEO.
 
 <h2>Últimas publicaciones</h2>
 
@@ -11,4 +11,4 @@ Bienvenidos a mi blog personal. Me llamo Emilio, soy natural de Salamanca y trab
 
 - [Diferencias entre Chief Digital Officer y Chief Data Officer](estrategia/diferencia-chief-data-officer-chief-digital-officer.html)
 
-Este proyecto está programado en HTML/AMP y alojado en GitHub.
+Este blog está programado en HTML/AMP y alojado en GitHub.
