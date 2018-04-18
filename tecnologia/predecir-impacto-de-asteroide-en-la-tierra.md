@@ -7,7 +7,7 @@ author:
 
 # Predecir el impacto de un asteroide en la Tierra
 
-Seguro que más de uno recordamos la [película Armageddon](https://www.imdb.com/title/tt0120591/) y cómo Bruce Willis y su equipo salvan a la Tierra del impacto de un asteroide gigante.
+Seguro que más de uno recordará la [película Armageddon](https://www.imdb.com/title/tt0120591/) y cómo Bruce Willis y su equipo salvan a la Tierra del impacto de un asteroide gigante.
 
 Todo esto, aunque ficción, se basa en una realidad aplastante: estamos expuestos a numerosos impactos de cuerpos celestes; la mayoría de ellos se desintegrarán al entrar en la atmósfera pero otros más grandes tendrán que ser desviados si no queremos un desastre.
 
