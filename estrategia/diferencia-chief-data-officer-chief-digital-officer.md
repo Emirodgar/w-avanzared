@@ -1,5 +1,6 @@
 ---
 description: El término CDO es muy utilizado hoy en día pero ¿sabemos la diferencia entre Data y Digital?
+lang: es_ES
 ---
 
 # ¿Cuál es la diferencia entre Chief Data Officer y Chief Digital Officer?
