@@ -2,7 +2,7 @@
 description: ¿Puede servir el Big Data y la tecnología para prededir el impacto de asteroides sobre la Tierra?
 ---
 
-#Predecir el impacto de un asteriode en la Tierra
+# Predecir el impacto de un asteriode en la Tierra
 
 Seguro que más de uno recordaremos la [película Armageddon](https://www.imdb.com/title/tt0120591/) y cómo Bruce Willis y su equipo salvan a La Tierra del impacto de un asteroide gigante.
 
