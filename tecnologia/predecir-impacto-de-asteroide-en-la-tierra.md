@@ -30,4 +30,9 @@ Otro ejemplo lo tenemos con el [laboratorio espacial chino Tiangong-1](https://e
 
 Lo más preocupante hasta la fecha ha ocurrido el 14 de abril de 2018 cuando el asteroide 2018 GE3 -de entre 50 y 100 metros de diámetro- [ha sido detectado con menos de 22 horas de antelación](https://www.sciencealert.com/giant-football-field-size-asteroid-surprise-flyby-earth) y a menos distancia que la Luna.
 
+<amp-twitter 
+  layout="responsive"
+  data-tweetid="985711894060134406">
+</amp-twitter>
+
 Como vemos, existen muchos programas para catalogar y vigilar potenciales colisiones pero pocos con posibilidades reales de alterar sus órbitas. Seguiremos vigilando el espacio y recopilando información; aquí el Big Data nos ayuda a predecir potenciales impactos pero aún nos queda trabajo por delante para aprender a desviarlos.
