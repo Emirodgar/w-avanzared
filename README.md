@@ -1,10 +1,7 @@
 ---
-description: Descubre el maravilloso mundo de los datos y las estrategias. Actualidad sin filtros.
 lang: es_ES
 webmaster_verifications:
   google: z5y8oOEkx6jt2dzpSOh88ZBJBKDfyHZ8D_uZw4G9288
-author:
-  twitter: emirodgar
 ---
 
 # Blog digital
