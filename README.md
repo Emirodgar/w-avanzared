@@ -1,9 +1,3 @@
----
-lang: es_ES
-webmaster_verifications:
-  google: z5y8oOEkx6jt2dzpSOh88ZBJBKDfyHZ8D_uZw4G9288
----
-
 # Blog digital
 
 Bienvenidos a mi blog personal. Me llamo Emilio y trabajo como Jefe de Proyecto Big Data en Smartup. Anteriormente he trabajado como director, analista y consultor SEO.
