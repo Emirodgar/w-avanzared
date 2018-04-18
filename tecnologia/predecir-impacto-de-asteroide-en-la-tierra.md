@@ -22,6 +22,8 @@ El principal programa de la NASA para evitar la colisión es [Double Asteroid Re
 Identificar y desviar un objeto amenazante no es tarea fácil y prueba de ello es el [meteorito de 20 metros que impactó en Rusia en 2013](http://earthsky.org/space/meteor-asteroid-chelyabinsk-russia-feb-15-2013) causando más de 1.500 heridos y que la ESA rápidamente desvinculó con el asteroide **2012 DA14** de 44 metros de diámetro que estaban vigilando por su proximidad a nuestro plantea.
 
 <amp-twitter 
+  width="375"
+  height="472"
   layout="responsive"
   data-tweetid="302334765812572160">
 </amp-twitter>
@@ -31,6 +33,8 @@ Otro ejemplo lo tenemos con el [laboratorio espacial chino Tiangong-1](https://e
 Lo más preocupante hasta la fecha ha ocurrido el 14 de abril de 2018 cuando el asteroide 2018 GE3 -de entre 50 y 100 metros de diámetro- [ha sido detectado con menos de 22 horas de antelación](https://www.sciencealert.com/giant-football-field-size-asteroid-surprise-flyby-earth) y a menos distancia que la Luna.
 
 <amp-twitter 
+  width="375"
+  height="472"
   layout="responsive"
   data-tweetid="985711894060134406">
 </amp-twitter>
