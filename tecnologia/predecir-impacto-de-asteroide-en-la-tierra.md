@@ -19,7 +19,7 @@ El principal programa de la NASA para evitar la colisión es [Double Asteroid Re
 
 ## Realidad de nuestra tecnología y capacidad de reacción
 
-Identificar y desviar un objeto amenazante no es tarea fácil y prueba de ello es el [meteorito de 20 metros que impactó en Rusia en 2013](http://earthsky.org/space/meteor-asteroid-chelyabinsk-russia-feb-15-2013) causando más de 1.500 heridos y que la ESA rápidamente desvinculó con el asteroide **2012 DA14** de 44 metros de diámetro que estaban vigilando por su proximidad a nuestro plantea.
+Identificar y desviar un objeto amenazante no es tarea fácil y prueba de ello es el [meteorito de 20 metros que impactó en Rusia en 2013](http://earthsky.org/space/meteor-asteroid-chelyabinsk-russia-feb-15-2013) causando más de 1.500 heridos y que la ESA rápidamente desvinculó con el asteroide **2012 DA14** de 44 metros de diámetro que estaban vigilando por su proximidad a nuestro planeta.
 
 <amp-twitter 
   width="375"
