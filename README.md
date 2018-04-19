@@ -1,6 +1,6 @@
-# Blog digital
+# No es una moda, es una ventaja competitiva
 
-Bienvenidos a mi blog personal. Me llamo Emilio y trabajo como Jefe de Proyecto Big Data en Smartup. Anteriormente he trabajado como director, analista y consultor SEO.
+Bienvenidos, me llamo <a href="https://emirodgar.com">Emilio</a> y soy Jefe de Proyecto en Salamanca. Anteriormente he trabajado como director, analista y consultor SEO. Una de mis pasiones es el <a href="https://emirodgar.es">Growth Hacking</a>.
 
 <h2>Últimas publicaciones</h2>
 
