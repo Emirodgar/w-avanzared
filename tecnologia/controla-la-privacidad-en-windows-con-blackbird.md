@@ -29,7 +29,7 @@ Blackbird no es nueva ya que su origen se remota al 2016 pero se actualiza con c
   data-tweetid="813647098868625409">
 </amp-twitter>
 
-Para reducir nuestra huella digital en Windows al mínimo Podemos ejecutarla directamente (*blackbird.exe*) o a través de la consola haciendo uso de los [diversos comandos](https://www.getblackbird.net/documentation/) que se especifican en la página oficial. El objetivo será controlar qué funcionalidades y servicios queremos deshabilitar.
+Para reducir nuestra huella digital en Windows al mínimo podemos ejecutarla directamente (*blackbird.exe*) o a través de la consola haciendo uso de los [diversos comandos](https://www.getblackbird.net/documentation/) que se especifican en la página oficial. El objetivo será controlar qué funcionalidades y servicios queremos deshabilitar.
 
 Para comenzar, recomiendo hacer un **análisis completo** de cara a conocer todos los puntos flojos en cuanto a privacidad que tenemos; lo haremos ejecutando el siguiente comando.
 
