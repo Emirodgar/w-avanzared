@@ -18,7 +18,9 @@ En esta tesitura entra en juego Windows, sistema operativo donde pasamos -los qu
   data-tweetid="992146812332118016">
 </amp-twitter>
 
-Aunque no debería de ser una tarea ardua ni difícil me gustaría presentaros [Blackbird](https://www.getblackbird.net), una aplicación cuyo objetivo es **cerrar el grifo de nuestros datos a Windows** con un solo clic; más fácil imposible. Blackbird no es nueva ya que su origen se remota al 2016 pero se actualiza con cierta frecuencia para adaptarse a los cambios que Windows va realizando en materia de privacidad.
+Aunque no debería de ser una tarea ardua ni difícil me gustaría presentaros [Blackbird](https://www.getblackbird.net), una aplicación cuyo objetivo es **cerrar el grifo de nuestros datos a Windows** con un solo clic; más fácil imposible. 
+
+Blackbird no es nueva ya que su origen se remota al 2016 pero se actualiza con cierta frecuencia para adaptarse a los cambios que Windows va realizando en materia de privacidad.
 
 <amp-twitter 
   width="375"
