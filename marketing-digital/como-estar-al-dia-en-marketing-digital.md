@@ -27,7 +27,9 @@ Es crucial mantenerse al día con el **cambio de algoritmo de los buscadores**. 
 
 Tanto se aprende de fuentes de datos pasivas (nosotros consumimos el contenido generado por terceras partes) como de entornos donde podemos **participar de forma activa**. Con esto me refiero a participar comentando noticias de interés u ofreciendo soluciones a problemas de otras personas.
 
-Uno de los lugares más conocidos para interactuar es el [foro para webmasters de Google](https://productforums.google.com/forum/#!forum/webmasters) aunque recomiendo mucho más los [foros de WebmasterWorld](https://www.webmasterworld.com) donde podremos encontrar un mayor volumen de información relevante. Respecto a problemáticas interesantes, me gusta mucho la [sección para webmasters de StackExchange](https://webmasters.stackexchange.com/questions) ya que se suelen ofrecen soluciones muy ingeniosas a problemas cotidianos.
+Uno de los lugares más conocidos para interactuar es el [foro para webmasters de Google](https://productforums.google.com/forum/#!forum/webmasters) aunque recomiendo mucho más los [foros de WebmasterWorld](https://www.webmasterworld.com) donde podremos encontrar un mayor volumen de información relevante. 
+
+Respecto a problemáticas interesantes, me gusta mucho la [sección para webmasters de StackExchange](https://webmasters.stackexchange.com/questions) ya que se suelen ofrecen soluciones muy ingeniosas a problemas cotidianos.
 
 ## Recursos actualizados 
 
