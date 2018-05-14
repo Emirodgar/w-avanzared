@@ -21,6 +21,8 @@ La transmisión del conocimiento está cambiando. Los blogs han dejado de ser lo
 
 En línea con esto, recomiendo seguir el [calendario oficial de eventos de webmasters de Google](https://www.google.com/webmasters/connect/?hl=es) donde podremos organizarnos con tiempo y asistir a los que más nos interesen.
 
+Es crucial mantenerse al día con el **cambio de algoritmos de los buscadores**. Moz hace una de las [mejores recopilaciones](https://moz.com/google-algorithm-change) en cuanto al algoritmo de Google pero si queremos monitorizar en tiempo real os recomiendo [Signals](https://cognitiveseo.com/signals/) o [Algoroo](https://algoroo.com). 
+
 ## Participación activa 
 
 Tanto se aprende de fuentes de datos pasivas (nosotros consumimos el contenido generado por terceras partes) como de entornos donde podemos participar de forma activa. Con esto me refiero a participar comentando noticias de interés y ofreciendo soluciones a problemas de otras personas.
