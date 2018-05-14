@@ -21,7 +21,7 @@ En línea con esto recomiendo seguir el [calendario oficial de eventos de webmas
 
 Tanto se aprende de fuentes de datos pasivas (nosotros consumimos el contenido generado por terceras partes) como de entornos donde podemos participar de forma activa. Con esto me refiero a participar comentando noticias de interés y ofreciendo soluciones a problemas de otras personas.
 
-Uno de los lugares más conocidos para interactuar es el [foro para webmsaters de Google](https://productforums.google.com/forum/#!forum/webmasters) aunque recomiendo tanto o más los [foros de WebmasterWorld](https://www.webmasterworld.com) y la [sección para webmasters de StackExchange](https://webmasters.stackexchange.com/questions).
+Uno de los lugares más conocidos para interactuar es el [foro para webmasters de Google](https://productforums.google.com/forum/#!forum/webmasters) aunque recomiendo tanto o más los [foros de WebmasterWorld](https://www.webmasterworld.com) y la [sección para webmasters de StackExchange](https://webmasters.stackexchange.com/questions).
 
 ## Recursos actualizados 
 
