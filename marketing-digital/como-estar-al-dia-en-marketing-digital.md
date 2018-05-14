@@ -5,17 +5,21 @@ lang: es_ES
 
 # Cómo estar al día en marketing digital
 
-La transformación digital avanza demasiado rápido y -con la cantidad de información que se genera cada día- cada vez es más complicado estar actualizado con información **relevante** y de **calidad**.
+La transformación digital avanza demasiado rápido y -teniendo en cuenta la cantidad de información que se genera cada día- cada vez es más complicado estar actualizado con información **relevante** y de **calidad**.
 
 ## Fuente de datos oficiales
 
 En mi búsqueda de fuentes de información que realmente aportan valor he aprendido que las páginas oficiales son un lugar idóneo. En base a ello mi preferencia para el entorno digital siempre serán [los blogs de Google](https://www.google.com/press/blog-social-directory.html). El listado es muy amplio por lo que es importante suscribirnos únicamente a aquellas materias que sean de nuestro interés si no, nos perderemos en un abismo ingente de contenido.
 
-## Eventos relacionas
+También recomiendo seguir el [canal para webmasters de Google en Youtube](https://www.youtube.com/user/GoogleWebmasterHelp), donde generan información bastante interesante.
+
+Personalmente utilizo [Feedly](https://feedly.com) -en su versión gratuita- para consumir toda esta información pero hay otras muchas herramientas de las que podemos hacer uso para estar al día.
+
+## Eventos relacionados
 
 La transmisión del conocimiento está cambiando. Los blogs han dejado de ser los medios más utilizados para obtener información dinámica y cada vez se generan más **eventos en directo** con participación tanto de los ponentes como de los asistentes. Eventos con un objetivo inicial pero abiertos a lo que los asistentes vayan demandando.
 
-En línea con esto recomiendo seguir el [calendario oficial de eventos de webmasters de Google](https://www.google.com/webmasters/connect/?hl=es) donde podremos organizarnos con tiempo y asistir a los que más nos interesen.
+En línea con esto, recomiendo seguir el [calendario oficial de eventos de webmasters de Google](https://www.google.com/webmasters/connect/?hl=es) donde podremos organizarnos con tiempo y asistir a los que más nos interesen.
 
 ## Participación activa 
 
