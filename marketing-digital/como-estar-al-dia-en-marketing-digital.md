@@ -21,7 +21,7 @@ La transmisión del conocimiento está cambiando. Los blogs han dejado de ser lo
 
 En línea con esto, recomiendo seguir el [calendario oficial de eventos de webmasters de Google](https://www.google.com/webmasters/connect/?hl=es) donde podremos organizarnos con tiempo y asistir a los que más nos interesen.
 
-Es crucial mantenerse al día con el **cambio de algoritmos de los buscadores**. Moz hace una de las [mejores recopilaciones](https://moz.com/google-algorithm-change) en cuanto al algoritmo de Google pero si queremos monitorizar en tiempo real os recomiendo [Signals](https://cognitiveseo.com/signals/) o [Algoroo](https://algoroo.com). 
+Es crucial mantenerse al día con el **cambio de algoritmo de los buscadores**. Moz hace una de las [mejores recopilaciones](https://moz.com/google-algorithm-change) en cuanto al algoritmo de Google pero si queremos monitorizar en tiempo real os recomiendo [Signals](https://cognitiveseo.com/signals/) o [Algoroo](https://algoroo.com). 
 
 ## Participación activa 
 
