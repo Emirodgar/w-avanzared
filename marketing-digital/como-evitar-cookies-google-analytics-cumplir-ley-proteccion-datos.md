@@ -7,11 +7,11 @@ lang: es_ES
 
 Me gusta la sencillez; odio los popups, avisos y formularios. Todo lo que atente contra una experiencia ágil y cómoda en una web debería ser eliminado.
 
-Con estas premisas en mente nunca he sido amigo de la **política de cookies** donde tenemos que incomodar al usuario para preguntarle si acepta todas y cada una de ellas antes de poder usarlas. Por ello, desde un primer momento, decidí no hacer uso de ellas.
+Con estas premisas en mente nunca he sido amigo de la **política de cookies** donde tenemos que incomodar al usuario para preguntarle si acepta todas y cada una de ellas antes de poder usarlas. Por ello, desde un primer momento, decidí no hacer uso de ninguna.
 
 Google Analytics -en su última versión- [utiliza al menos tres cookies](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage?hl=es-419) por lo que en su versión por defecto nos veríamos obligados a tener que avisar al usuario.
 
-A mayores, dichas cookies utilizan información para identificar -de forma inequívoca- a cada usuario por lo que se considera de carácter personal. Los campos que realizan este trabajo son el [ClientID](https://developers.google.com/analytics/devguides/collection/analyticsjs/field-reference#clientId) y el [UserID](https://support.google.com/analytics/answer/3123662?hl=es). Por todo ello, la solución es simple: **evitar almacenar dicha información y generar cookie alguna**.
+A mayores, dichas cookies utilizan información para identificar -de forma inequívoca- a cada usuario por lo que se considera de carácter personal. Los campos que realizan este trabajo son el [ClientID](https://developers.google.com/analytics/devguides/collection/analyticsjs/field-reference#clientId) y el [UserID](https://support.google.com/analytics/answer/3123662?hl=es). Por todo ello, la solución es simple: **evitar almacenar dicha información y no generar cookie alguna**.
 
 Lógicamente, yo estoy dispuesto a **sacrifir consistencia en mi analítica** (no seré capaz de conocer usuarios recurrentes ni atribución correcta en la conversión) dado que principalmente mis páginas son informativas y las métricas que más me interesan son visitas, canales y tiempo en el sitio. En otro caso, sin el uso de cookies, perderemos consistencia y capacidad de análisis.
 
