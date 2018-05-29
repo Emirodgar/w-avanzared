@@ -1,6 +1,7 @@
 ---
-description: Listado de blogs y recursos para estar al día en marketing digital
+description: Listado de blogs y herramientas gratuitas y de pago para estar al día en marketing digital. Aprende a ser competitivo.
 lang: es_ES
+permalink: marketing-digital/como-estar-al-dia-en-marketing-digital
 ---
 
 # Cómo estar al día en marketing digital
