@@ -1,6 +1,7 @@
 ---
 description: Blackbird en una herramienta que te ayudará a gestionar y controlar los datos que compartes con Windows
 lang: es_ES
+permalink: tecnologia/controla-la-privacidad-en-windows-con-blackbird
 author:
   twitter: emirodgar
 ---
