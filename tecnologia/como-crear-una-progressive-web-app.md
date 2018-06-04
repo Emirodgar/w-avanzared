@@ -8,13 +8,13 @@ author:
 
 # Cómo crear una Progressive Web App
 
-La revolución de los smartphone y los marketplaces de apps supuso un antes y un después en el mundo de la movilidad y las comunicaciones. Pero como todo en esta vida, sigue evolucionando y el siguiente paso son las PWA (Progressive Web Apps).
+La revolución de los smartphone y los marketplaces de apps supuso un antes y un después en el mundo de la movilidad y las comunicaciones. Pero como todo en esta vida, sigue evolucionando y el siguiente paso son las **PWA** (*Progressive Web Apps*).
 
 ## Diferencias y ventajas entre apps nativas y PWA
 
-Las PWA están programadas con la misma tencnología que una página web: en **HTML, Javascript y CSS**. Por contra, las aplicaciones móviles nativas utilizan lenguajes específicos como Objective-C para iOS o Java para Android. Esto supone una de las principales ventajas de las PWA ya que no necesitamos conocer varios lenguajes de programación para disponer de soluciones web y mobile.
+Las PWA están programadas con el mismo lenguaje que una página web: **HTML, Javascript y CSS**. Por contra, las aplicaciones móviles nativas utilizan lenguajes específicos como Objective-C para iOS o Java para Android. Esto supone una de las principales ventajas de las PWA ya que **no necesitamos conocer varios lenguajes de programación** para disponer de soluciones web y mobile.
 
-Otra ventaja la encontramos en el proceso de instalación de una app. En las nativas, se siguen varios pasos como acceso al marketplace, descarga, instalación, acceso y utilización. Por contra, las PWA reducen considerablemente el número de pasos necesarios mejorando por tanto la conversión asicoada al uso de la aplicación.
+Otra ventaja la encontramos en el proceso de instalación de una app. En las nativas, se siguen varios pasos como acceso al marketplace, descarga, instalación, acceso y utilización. Por contra, las PWA reducen considerablemente el número de pasos necesarios **mejorando por tanto la conversión** asociada al uso de la aplicación.
 
 <amp-twitter 
   width="375"
@@ -102,4 +102,4 @@ Por último debemos incluir en nuestro código HTML las instrucciones necesarias
 
 El código anterior identifica el archivo de configuración (.manifest), registra el serviceWorker y personaliza algunas opciones de visualización como tamaño y color.
 
-Para poder validar nuestra PWA y optimizarla al máximo posible, recomiendo hacer uso de [Lighthouse](https://developers.google.com/web/tools/lighthouse/run), herramienta creada por Google.
+Para poder validar nuestra PWA y optimizarla al máximo, recomiendo hacer uso de [Lighthouse](https://developers.google.com/web/tools/lighthouse/run), herramienta creada por Google.
