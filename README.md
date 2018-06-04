@@ -4,6 +4,7 @@ Bienvenidos, me llamo <a href="https://emirodgar.com">Emilio</a> y soy Jefe de P
 
 <h2>Últimas publicaciones</h2>
 
+- [Cómo crear una Progressive Web App](tecnologia/como-crear-una-progressive-web-app.md)
 - [Cómo evitar las cookies de Google Analytics y cumplir con la ley de protección de datos](marketing-digital/como-evitar-cookies-google-analytics-cumplir-ley-proteccion-datos)
 - [Cómo estar al día en marketing digital](marketing-digital/como-estar-al-dia-en-marketing-digital)
 - [Controla la privacidad en Windows con Blackbird](tecnologia/controla-la-privacidad-en-windows-con-blackbird)
@@ -22,6 +23,7 @@ Bienvenidos, me llamo <a href="https://emirodgar.com">Emilio</a> y soy Jefe de P
 
 <h3>Tecnología</h3>
 
+- [Cómo crear una Progressive Web App](tecnologia/como-crear-una-progressive-web-app.md)
 - [Controla la privacidad en Windows con Blackbird](tecnologia/controla-la-privacidad-en-windows-con-blackbird)
 - [Predecir el impacto de un asteroide sobre la Tierra](tecnologia/predecir-impacto-de-asteroide-en-la-tierra)
 
