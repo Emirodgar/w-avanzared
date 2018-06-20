@@ -34,7 +34,7 @@ Lo primero que haremos será crear dicha dimensión desde el panel de administra
   data-tweetid="1009388806393466880">
 </amp-twitter>
 
-Si no hiciéramos uso de Google Tag Manager, ya podríamos enviar la información directamente a Analytics utilizando la función set (y como parámetros, el id de dimensión y su valor). Ojo, el orden de las instrucciones importa y, además, tenemos que actualizar el número de dimensión, en este caso es dimension1 porque ha sido la primera en crearse pero si fuera la tercera tendríamos que utilizar dimension3.
+Si no hiciéramos uso de Google Tag Manager, ya podríamos enviar la información directamente a Analytics utilizando la función set (y como parámetros, el id de dimensión y su valor). Ojo, **el orden de los comandos importa** y, además, tenemos que actualizar el número de dimensión; en este caso es dimension1 porque ha sido la primera en crearse pero si fuera la tercera tendríamos que utilizar dimension3.
 
 ```...
 ga('create', 'UA-XXXX-Y', 'auto');
@@ -43,9 +43,9 @@ ga('send', 'pageview');
 ...
 ````
 
-Para que esto funcione debemos tener un template personalizado para cada estado de la página. En el template principal -del que se nutre todo el sitio- envíaríamos el valor 200. En el template de error página no encontrada, enviaríamos el valor 404 y así con el resto que queramos medir.
+Para que esto funcione debemos tener un **template personalizado para cada estado de la página**. En el template principal -del que se nutre todo el sitio- envíaríamos el valor 200. En el template de error página no encontrada, enviaríamos el valor 404 y así con el resto de estados que queramos medir.
 
-En el caso de que utilicemos Tag Manager, debemos enviar a la capa de datos la información del estado de la página. Para ello utilizamos el comando push. El siguiente código es el que se insertaría en el template de la página de error 404. 
+En el caso de que utilicemos Tag Manager, debemos **enviar a la capa de datos la información del estado de la página**. Para ello utilizamos el [comando push](https://developers.google.com/tag-manager/devguide#adding-data-layer-variables-to-a-page). El siguiente código es el que se insertaría en el template de la página de error 404. 
 
 ```
 <script>
@@ -66,6 +66,7 @@ Para poder recibir dicho valor en Tag Manager debemos crear una variable del tip
 
 Para aclarar los conceptos que llevamos hasta este momento, tenemos lo siguiente:
 
+- **Estado HTTP**: dimensión personalizada creada en Analytics y con ID 1.
 - **httpStatus**: variable de la capa de datos. Rellenamos su valor desde los templates de error.
 - **GA - httpStatus**: variable de GTM que recoge el valor de la variable de la capa de datos, httpStatus.
 
@@ -84,7 +85,7 @@ Por último, nos quedará enviar la información que acabamos de recibir a Googl
   data-tweetid="1009390415701774336">
 </amp-twitter>
 
-Con esto ya solo nos queda hacer las [comprobaciones oportunas](https://twitter.com/Emirodgar/status/1009391279187398656) utilizando la función de vista previa/preview de GTM para asegurarnos de que la variable GA - httpStatus se rellena con el estado correcto en cada petición.
+Con esto ya solo nos queda hacer las [comprobaciones oportunas](https://twitter.com/Emirodgar/status/1009391279187398656) utilizando la función de [vista previa/preview de GTM](https://support.google.com/tagmanager/answer/6107056?hl=es) para asegurarnos de que la variable GA - httpStatus se rellena con el estado correcto en cada petición.
 
 A partir de ahora podremos utilizar esta nueva dimensión en cualquiera de nuestros informes dentro de Analytics.
 
