@@ -68,7 +68,7 @@ Vamos a hacer un resumen de las dimensiones y variables que tenemos creadas hast
 
 - **Estado HTTP**: nombre de la dimensión personalizada creada en Analytics y cuyo ID es 1.
 - **httpStatus**: variable de la capa de datos. Rellenamos su valor desde los templates de error.
-- **GA - httpStatus**: variable de GTM que recoge el valor de la variable de la capa de datos, httpStatus.
+- **GA - httpStatus**: variable de GTM que recoge el valor de la variable de la capa de datos (httpStatus).
 
 Por último, nos quedará enviar la información que acabamos de recibir a Google Analytics. Para ello debemos modificar la etiqueta de Analytics de la siguiente forma:
 
