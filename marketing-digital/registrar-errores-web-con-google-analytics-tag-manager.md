@@ -66,7 +66,7 @@ Para poder recibir dicho valor en Tag Manager debemos crear una variable del tip
 
 Para aclarar los conceptos que llevamos hasta este momento, tenemos lo siguiente:
 
-- **Estado HTTP**: dimensión personalizada creada en Analytics y con ID 1.
+- **Estado HTTP**: nombre de la dimensión personalizada creada en Analytics y cuyo ID es 1.
 - **httpStatus**: variable de la capa de datos. Rellenamos su valor desde los templates de error.
 - **GA - httpStatus**: variable de GTM que recoge el valor de la variable de la capa de datos, httpStatus.
 
