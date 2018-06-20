@@ -64,7 +64,7 @@ Para poder recibir dicho valor en Tag Manager debemos crear una variable del tip
   data-tweetid="1009389941204439041">
 </amp-twitter>
 
-Para aclarar los conceptos que llevamos hasta este momento, tenemos lo siguiente:
+Vamos a hacer un resumen de las dimensiones y variables que tenemos creadas hasta este momento:
 
 - **Estado HTTP**: nombre de la dimensión personalizada creada en Analytics y cuyo ID es 1.
 - **httpStatus**: variable de la capa de datos. Rellenamos su valor desde los templates de error.
