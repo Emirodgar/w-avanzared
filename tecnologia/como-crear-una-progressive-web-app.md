@@ -5,6 +5,7 @@ logo: https://chuletaseo.com/img/emirodgar.jpg
 permalink: tecnologia/como-crear-una-progressive-web-app
 author:
   twitter: emirodgar
+  
 ---
 
 # Cómo crear una Progressive Web App
