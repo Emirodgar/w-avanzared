@@ -4,7 +4,6 @@ lang: es_ES
 permalink: tecnologia/como-crear-una-progressive-web-app
 author:
   twitter: emirodgar
-  picture: https://chuletaseo.com/img/emirodgar.jpg
   
 ---
 
