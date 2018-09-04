@@ -108,3 +108,7 @@ Para poder validar nuestra PWA y optimizarla al máximo, recomiendo hacer uso de
 ## Framework para crear tu propia PWA
 
 Puedes utilizar [PWA Builder](https://pwa.cafe/) como plataforma para la creación de forma rápida y sencilla de PWA. Bastará con instalarlo en nuestro sistema y seleccionar las características que queremos que tenga. 
+
+## MarketPlace de PWA
+
+Al igual que ocurre con las aplicaciones de Android o iOS, las PWA también tienen su propia página que las agrupa y nos permite acceder a ellas fácilmente. Se llama [Appsco](https://appsco.pe).
