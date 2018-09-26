@@ -30,6 +30,6 @@ Su origen se remonta a los procesos de negocio y el almacenamiento correcto de l
 Las responsabilidades principales son:
 
 1. Responsable de la información de la empresa; tanto de su almacenamiento como procesamiento.
-2. Realiza nálisis de datos para aportar valor a la empresa.
+2. Realiza análisis de datos para aportar valor a la empresa.
 3. Responsabilidad sobre la seguridad de la información.
 4. Control sobre todas las fuentes de información que pueden aportar valor a la empresa (internas o externas).
