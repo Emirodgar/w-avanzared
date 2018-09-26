@@ -14,6 +14,8 @@
    <![endif]-->
    <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
    <script async custom-element="amp-twitter" src="https://cdn.ampproject.org/v0/amp-twitter-0.1.js"></script>
+   <script async custom-element="amp-user-notification" src="https://cdn.ampproject.org/v0/amp-user-notification-0.1.js"></script>
+   <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
    <style amp-custom>
       /** Syntax highlighting styles */
       .highlight { background: #fff; }
@@ -163,9 +165,14 @@
       pre > code { border: 0; padding-right: 0; padding-left: 0; }
       .emirodgar { font-weight: bold; font-size:21px;}
       .emirodgar a{ color:#333333}
-      amp-twitter {margin-top:30px;}
-	  
+      amp-twitter {margin-top:30px;}	  
 	  @media only screen and (max-width: 600px) {.content article { padding: 40px 0;} }
+	  amp-user-notification > div {
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
 
 .sticky-bar {
     background-color: rgb(3, 3, 3);
@@ -267,7 +274,6 @@
          }
       </script>
    </amp-analytics>
-   <script async custom-element="amp-user-notification" src="https://cdn.ampproject.org/v0/amp-user-notification-0.1.js"></script>
    <amp-geo layout=nodisplay>
   <script type="application/json">
     {
