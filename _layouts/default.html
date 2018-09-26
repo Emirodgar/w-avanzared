@@ -267,5 +267,25 @@
          }
       </script>
    </amp-analytics>
+   <amp-geo layout=nodisplay>
+  <script type="application/json">
+    {
+      "ISOCountryGroups": {
+      "nafta": [ "es", "fr", "pt" ],
+      "waldo": [ "unknown" ],
+      "anz": [ "au", "nz" ]
+      }
+    }
+  </script>
+</amp-geo>
+
+<amp-user-notification
+    layout=nodisplay
+    id="amp-user-notification1"
+    data-show-if-geo="nafta, anz"
+    data-dismiss-href="https://avanzared.com">
+    Esta página utiliza cookies.
+    <a class="btn" on="tap:amp-user-notification1.dismiss">Aceptar</a>
+</amp-user-notification>
 </body>
 </html>
