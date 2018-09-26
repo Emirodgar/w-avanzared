@@ -7,10 +7,10 @@ author:
   
 ---
 
-# Mapa web - Publicaciones Avanzared
-Bienvenidos, me llamo <a href="https://emirodgar.com">Emilio</a> y soy Jefe de Proyecto en Salamanca. Anteriormente he trabajado como director, analista y consultor SEO. Una de mis pasiones es el <a href="https://emirodgar.es">Growth Hacking</a>.
+# Mapa web 
+Navega de forma sencilla a través de esta página.
 
-
+<h2>Publicaciones por categoría</h2>
 
 <h3>Estrategias</h3>
 
