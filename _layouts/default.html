@@ -15,7 +15,6 @@
    <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
    <script async custom-element="amp-twitter" src="https://cdn.ampproject.org/v0/amp-twitter-0.1.js"></script>
    <script async custom-element="amp-user-notification" src="https://cdn.ampproject.org/v0/amp-user-notification-0.1.js"></script>
-   <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
    <style amp-custom>
       /** Syntax highlighting styles */
       .highlight { background: #fff; }
@@ -272,14 +271,8 @@
              }
            }
          }
+		 document.cookie = '_ga=; Path=/; Domain=.avanzared.com; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
       </script>
    </amp-analytics>
-<amp-user-notification id="my-notification"
-  layout="nodisplay">
-  <div>Esta página utiliza cookies.
-    <button on="tap:my-notification.dismiss"
-      class="ampstart-btn caps ml1">Aceptar</button>
-  </div>
-</amp-user-notification>
 </body>
 </html>
