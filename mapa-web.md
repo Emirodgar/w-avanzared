@@ -8,7 +8,7 @@ author:
 ---
 
 # Mapa web 
-Navega de forma sencilla a través de esta página.
+Navega de forma sencilla a través de esta página. A continuación tienes el listado de todas las publicaciones clasificadas por su categoría.
 
 <h2>Publicaciones por categoría</h2>
 
