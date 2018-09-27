@@ -13,6 +13,8 @@
    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
    <![endif]-->
    <script async custom-element="amp-twitter" src="https://cdn.ampproject.org/v0/amp-twitter-0.1.js"></script>
+   <script async custom-element="amp-analytics"
+    src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
    <style amp-custom>
       /** Syntax highlighting styles */
       .highlight { background: #fff; }
@@ -253,6 +255,21 @@
             </div>
          </div>
       </article>
-   </main>	
+   </main>
+	<amp-analytics type="googleanalytics">
+      <script type="application/json">
+         {
+           "vars": {
+             "account": "UA-112489553-3"
+           },
+           "triggers": {
+             "trackPageviewWithCustomUrl": {
+               "on": "visible",
+               "request": "pageview"
+             }
+           }
+         }
+      </script>
+   </amp-analytics>
 </body>
 </html>
