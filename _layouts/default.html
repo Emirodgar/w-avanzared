@@ -255,21 +255,7 @@
          </div>
       </article>
    </main>
-   <amp-analytics>
-		<script type="application/json">
-		{
-		  "requests": {
-			"pageview": "https://avanzared.com/analytics?url=${canonicalUrl}&title=${title}&acct=${account}&clientId=${clientId(cid-scope)}",
-		  },
-		  "triggers": {
-			"trackPageview": {
-			  "on": "visible",
-			  "request": "pageview"
-			}
-		  }
-		}
-		</script>
-	</amp-analytics>
+   <amp-pixel src="https://avanzared.com/analytics.html?referrer=DOCUMENT_REFERRER"></amp-pixel>
 	
 </body>
 </html>
