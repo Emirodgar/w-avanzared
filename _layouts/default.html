@@ -254,25 +254,27 @@
          </div>
       </article>
    </main>
-<script type="application/json">
-{
-  "requests": {
-    "pageview": "https://avanzared.com/analytics?url=${canonicalUrl}&title=${title}&acct=${account}&clientId=${clientId(cid-scope)}",
-  },
-  "vars": {
-    "account": "ABC123",
-    "title": "Homepage"
-  },
-  "triggers": {
-    "some-event": {
-      "on": "visible",
-      "request": "pageview",
-      "vars": {
-        "title": "My homepage",
-        "clientId": "my user"
-      }
-  }
-}
-</script>
+	<amp-analytics>
+		<script type="application/json">
+		{
+		  "requests": {
+			"pageview": "https://avanzared.com/analytics?url=${canonicalUrl}&title=${title}&acct=${account}&clientId=${clientId(cid-scope)}",
+		  },
+		  "vars": {
+			"account": "ABC123",
+			"title": "Homepage"
+		  },
+		  "triggers": {
+			"some-event": {
+			  "on": "visible",
+			  "request": "pageview",
+			  "vars": {
+				"title": "My homepage",
+				"clientId": "my user"
+			  }
+		  }
+		}
+		</script>
+	</amp-analytics>
 </body>
 </html>
