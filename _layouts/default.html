@@ -255,24 +255,17 @@
          </div>
       </article>
    </main>
-	<amp-analytics>
+	<amp-analytics type="googleanalytics">
 		<script type="application/json">
 		{
 		  "requests": {
 			"pageview": "https://avanzared.com/analytics?url=${canonicalUrl}&title=${title}&acct=${account}&clientId=${clientId(cid-scope)}",
 		  },
-		  "vars": {
-			"account": "ABC123",
-			"title": "Homepage"
-		  },
 		  "triggers": {
-			"some-event": {
+			"trackPageview": {
 			  "on": "visible",
-			  "request": "pageview",
-			  "vars": {
-				"title": "My homepage",
-				"clientId": "my user"
-			  }
+			  "request": "pageview"
+			}
 		  }
 		}
 		</script>
