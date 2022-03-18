@@ -12,7 +12,9 @@ permalink: google-analytics
 
 --- 
 
-Google ha anunciado que [en junio de 2023, Google Analytics Universal dejará de funcionar](https://blog.google/products/marketingplatform/analytics/prepare-for-future-with-google-analytics-4/), y el único producto de analítica disponible será Google Analytics 4, comúnmente conocido como GA4.
+Google ha anunciado que [en julio de 2023, Google Analytics Universal dejará de funcionar](https://blog.google/products/marketingplatform/analytics/prepare-for-future-with-google-analytics-4/), y el único producto de analítica disponible será Google Analytics 4, comúnmente conocido como GA4.
+
+GA4 fue lanzado en 2020 y, aunque sigue en beta, tenemos que comenzar a trabajar en la migración.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTE0MzAxNTFdfQ==
+eyJoaXN0b3J5IjpbODQxMTgwMzQ5LC0yMTExNDMwMTUxXX0=
 -->
