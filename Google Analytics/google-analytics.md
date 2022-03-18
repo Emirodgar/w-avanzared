@@ -39,6 +39,8 @@ Tenemos dos opciones, conectar a esta cuenta una propiedad GA4 ya existente, o c
 
 ![enter image description here](https://i.imgur.com/NuMJBfM.png)
 
+Aparecerá una ventana emergente con más información acerca de los datos y configuraciones que se importarán desde GA3 a GA4 y con el botón de "Crear propiedad". Lo pulsamos y avanzamos al siguiente paso.
+
 > En la [guía oficial de Google](https://seranking.com/blog/google-analytics-setup/) nos explican cómo crear una propiedad GA4
 
 Lo que haremos será que ambas propiedades convivan, recogiendo información al mismo tiempo.
@@ -58,6 +60,6 @@ Nuestra recomendación es hacerlo a través de GTM, por facilidad y escalabilida
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMTQ0NTA4NiwyNzMxMTA2NTIsMTAyOD
-QwMzkyMCwtMTc2MjgxMDA3NCwtMjExMTQzMDE1MV19
+eyJoaXN0b3J5IjpbNjI1ODY3Njg2LDI3MzExMDY1MiwxMDI4ND
+AzOTIwLC0xNzYyODEwMDc0LC0yMTExNDMwMTUxXX0=
 -->
