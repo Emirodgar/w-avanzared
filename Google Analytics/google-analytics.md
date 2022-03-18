@@ -33,7 +33,9 @@ Justo al lado hay un botón que dice "Empezar". Hacemos clic sobre el mismo para
 
 ![Aviso Analytics migración a GA4](https://i.imgur.com/Znip5dj.png)
 
-En la siguien
+En la siguiente imagen recibimos un aviso tranquilizador en el que se nos indica que la propiedad Universal Analytics actual no se verá afectada. Podemos avanzar con tranquilidad.
+
+
 
 > En la [guía oficial de Google](https://seranking.com/blog/google-analytics-setup/) nos explican cómo crear una propiedad GA4
 
@@ -54,6 +56,6 @@ Nuestra recomendación es hacerlo a través de GTM, por facilidad y escalabilida
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTMxMjEzMDksMjczMTEwNjUyLDEwMj
-g0MDM5MjAsLTE3NjI4MTAwNzQsLTIxMTE0MzAxNTFdfQ==
+eyJoaXN0b3J5IjpbLTg3NTAyMTc3OCwyNzMxMTA2NTIsMTAyOD
+QwMzkyMCwtMTc2MjgxMDA3NCwtMjExMTQzMDE1MV19
 -->
