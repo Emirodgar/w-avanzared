@@ -21,9 +21,9 @@ GA4 fue lanzado en 2020 y, aunque sigue en beta, tenemos que comenzar a trabajar
 
 ## Crear una propiedad GA4
 
-El prime paso que tendremos que dar será crear una propiedad de GA4, puesto que las actuales corresponden a la versión que quedará obsoleta a partir del verano de 2023.
+El primer paso que tendremos que dar será crear una propiedad de GA4, puesto que las actuales corresponden a la versión que quedará obsoleta a partir del verano de 2023.
 
-Se puede crear una nueva propiedad de GA4 en cualquier cuenta existente de Analytics. Al generarla, no mantendrá histórico, ya que empieza desde cero, por lo que es importante que convivan ambas propiedades (Universal con histórico y GA4 con nueva información).
+Se puede crear una nueva propiedad de GA4 en cualquier cuenta existente de Analytics. Al generarla, no mantendrá histórico, ya que empieza desde cero, por lo que es importante que convivan ambas propiedades (GA3 con histórico y GA4 con los datos recogidos a partir del momento de su creación).
 
 > En la [guía oficial de Google](https://seranking.com/blog/google-analytics-setup/) nos explican cómo crear una propiedad GA4
 
@@ -42,6 +42,6 @@ Hay varios escenarios para comenzar a registrar información.
 
 Nuestra recomendación es hacerlo a través de GTM, por facilidad y escalabilidad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDQ0ODA1NiwxMDI4NDAzOTIwLC0xNz
-YyODEwMDc0LC0yMTExNDMwMTUxXX0=
+eyJoaXN0b3J5IjpbMjczMTEwNjUyLDEwMjg0MDM5MjAsLTE3Nj
+I4MTAwNzQsLTIxMTE0MzAxNTFdfQ==
 -->
