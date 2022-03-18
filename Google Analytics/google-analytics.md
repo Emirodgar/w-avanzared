@@ -29,8 +29,14 @@ Lo que haremos será que ambas propiedades convivan, recogiendo información al 
 
 ## Instalar el código de GA4
 
-Hay varios escenarios para comenzar a registrar información. Nuestra recomendación es hacerlo a través del código 
+Hay varios escenarios para comenzar a registrar información. 
+
+
+ 1. Añadir los dos códigos a la página. Por un lado, tendremos `analytics.js` (GA3) y por otro `gtag.js` (GA4). Cada código será independiente.
+ 2. Empleamos únicamente el código `gtag.js` y enviamos el flujo de información a las dos propiedades (GA3 y GA4).
+
+Nuestra recomendación es hacerlo a través del código 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzM5Nzg1NTIsLTE3NjI4MTAwNzQsLT
-IxMTE0MzAxNTFdfQ==
+eyJoaXN0b3J5IjpbOTY0NjI4MjI4LC0xNzYyODEwMDc0LC0yMT
+ExNDMwMTUxXX0=
 -->
