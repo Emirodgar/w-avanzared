@@ -45,11 +45,13 @@ Si todo ha ido bien, recibiremos el aviso de que nuestra propiedad ha sido gener
 
 ![enter image description here](https://i.imgur.com/bKDjGw6.png)
 
-Si pulsamos sobre el botón de "Ver propiedad 
+Si pulsamos sobre el botón de "Ver propiedad GA4" iremos al panel de configuración de la propiedad, necesario para crear un flujo de recogida de información.
 
 > En la [guía oficial de Google](https://seranking.com/blog/google-analytics-setup/) nos explican cómo crear una propiedad GA4
 
 ## Configurar la recogida de datos
+
+Google Analytics Universal era relativamente sencillo de usar; incluíamos el código en la página y los datos aparecían en la herramienta. GA4, por su naturaleza integrado de varias plataformas (web, 
 
 ## Instalar el código de GA4
 
@@ -66,6 +68,6 @@ Nuestra recomendación es hacerlo a través de GTM, por facilidad y escalabilida
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjEyODY1NjQsMjczMTEwNjUyLDEwMj
-g0MDM5MjAsLTE3NjI4MTAwNzQsLTIxMTE0MzAxNTFdfQ==
+eyJoaXN0b3J5IjpbODQzMDYzNzc3LDI3MzExMDY1MiwxMDI4ND
+AzOTIwLC0xNzYyODEwMDc0LC0yMTExNDMwMTUxXX0=
 -->
