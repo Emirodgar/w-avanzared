@@ -31,7 +31,9 @@ Si accedemos a una cuenta de Analytics, veremos un mensaje en la parte superior 
 
 Justo al lado hay un botón que dice "Empezar". Hacemos clic sobre el mismo para comenzar el proceso de migración a una propiedad de GA4.
 
-![enter image description here](https://i.imgur.com/Znip5dj.png)
+![Aviso Analytics migración a GA4](https://i.imgur.com/Znip5dj.png)
+
+En la siguien
 
 > En la [guía oficial de Google](https://seranking.com/blog/google-analytics-setup/) nos explican cómo crear una propiedad GA4
 
@@ -52,6 +54,6 @@ Nuestra recomendación es hacerlo a través de GTM, por facilidad y escalabilida
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTg2ODQyLDI3MzExMDY1MiwxMDI4ND
-AzOTIwLC0xNzYyODEwMDc0LC0yMTExNDMwMTUxXX0=
+eyJoaXN0b3J5IjpbLTE0MTMxMjEzMDksMjczMTEwNjUyLDEwMj
+g0MDM5MjAsLTE3NjI4MTAwNzQsLTIxMTE0MzAxNTFdfQ==
 -->
