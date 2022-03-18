@@ -95,11 +95,15 @@ Este código debe ser insertado justo al principio de la etiqueta `<head>`.
 
 Nuestra recomendación es hacer la implementación a través de GTM, por facilidad y escalabilidad. En este caso necesitaríamos crear una nueva etiqueta de e incluir el ID que nos hayan generado. En nuestro ejemplo sería `G-5YP5FZCQ8W`.
 
-> Si hacemos uso de algún CMS lo más seguro es que ya existan plugins que nos permitan instalar directamente el código a partir del ID de la propiedad. Usa esta tabla para saber si tu plataforma es compatible con
+> Si hacemos uso de algún CMS lo más seguro es que ya existan plugins que nos permitan instalar directamente el código a partir del ID de la propiedad. Usa esta tabla para saber [si tu plataforma es compatible con GA4](https://support.google.com/analytics/answer/10447272#native-support).
+
+## Validar la implementación
+
+Asociado a cada flujo de datos que hayamos creado tenemos un mensaje informativo que nos indica si se están recogiendo o no
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTQ4MTcyNywtOTE5NjUzOTI1LC0xNz
-E3NTQxNDM4LDI3MzExMDY1MiwxMDI4NDAzOTIwLC0xNzYyODEw
-MDc0LC0yMTExNDMwMTUxXX0=
+eyJoaXN0b3J5IjpbNTY4NTI5NzIxLC05MTk2NTM5MjUsLTE3MT
+c1NDE0MzgsMjczMTEwNjUyLDEwMjg0MDM5MjAsLTE3NjI4MTAw
+NzQsLTIxMTE0MzAxNTFdfQ==
 -->
