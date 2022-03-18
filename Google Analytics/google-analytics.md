@@ -47,7 +47,9 @@ Si todo ha ido bien, recibiremos el aviso de que nuestra propiedad ha sido gener
 
 Si pulsamos sobre el botón de "Ver propiedad GA4" iremos al panel de configuración de la propiedad, necesario para crear un flujo de recogida de información.
 
-> En la [guía oficial de Google](https://seranking.com/blog/google-analytics-setup/) nos explican cómo crear una propiedad GA4
+> Usa la [guía oficial de Google](https://seranking.com/blog/google-analytics-setup/) para ver otros ejemplos
+
+Una de las grandes diferencias de GA4 frente a GA3 es que en este caso sólo disponemos de propiedades; no hay un nivel de análisis inferior como las vistas de GA3.
 
 ## Configurar la recogida de datos
 
@@ -95,7 +97,7 @@ Nuestra recomendación es hacer la implementación a través de GTM, por facilid
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAyNjI3NDczLC05MTk2NTM5MjUsLTE3MT
-c1NDE0MzgsMjczMTEwNjUyLDEwMjg0MDM5MjAsLTE3NjI4MTAw
-NzQsLTIxMTE0MzAxNTFdfQ==
+eyJoaXN0b3J5IjpbMTk1MzAxMTE1MCwtOTE5NjUzOTI1LC0xNz
+E3NTQxNDM4LDI3MzExMDY1MiwxMDI4NDAzOTIwLC0xNzYyODEw
+MDc0LC0yMTExNDMwMTUxXX0=
 -->
