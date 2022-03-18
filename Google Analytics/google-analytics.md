@@ -77,7 +77,7 @@ Una vez que tengamos nuestro flujo de datos creado, si pulsamos sobre el mismo v
 
 ### Instalar el código directamente sobre la web
 
-El código de GA4 usa el objeto `gtag.js`, el mismo que ya se estaba usando
+El código de GA4 usa el objeto `gtag.js`, el mismo que de la versión [Global Site Tag](https://emirodgar.com/versiones-google-analytics).
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-5YP5FZCQ8W"></script>
@@ -95,7 +95,7 @@ Nuestra recomendación es hacerlo a través de GTM, por facilidad y escalabilida
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5MzI5ODM5LC0xNzE3NTQxNDM4LDI3Mz
-ExMDY1MiwxMDI4NDAzOTIwLC0xNzYyODEwMDc0LC0yMTExNDMw
-MTUxXX0=
+eyJoaXN0b3J5IjpbLTMwMDkzNjU4MCwtMTcxNzU0MTQzOCwyNz
+MxMTA2NTIsMTAyODQwMzkyMCwtMTc2MjgxMDA3NCwtMjExMTQz
+MDE1MV19
 -->
