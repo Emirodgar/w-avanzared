@@ -26,7 +26,11 @@ El primero paso que tendremos que dar será crear una propiedad de GA4, puesto q
 > En la guía oficial de Google nos explican cómo crear una propiedad GA4
 
 Lo que haremos será que ambas propiedades convivan, recogiendo información al mismo tiempo.
+
+## Instalar el código de GA4
+
+Hay varios escenarios para comenzar a registrar información. Nuestra recomendación es hacerlo a través del código 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjI4MTAwNzQsLTIxMTE0MzAxNTFdfQ
-==
+eyJoaXN0b3J5IjpbLTE2NzM5Nzg1NTIsLTE3NjI4MTAwNzQsLT
+IxMTE0MzAxNTFdfQ==
 -->
