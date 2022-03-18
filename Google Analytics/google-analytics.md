@@ -99,11 +99,13 @@ Nuestra recomendación es hacer la implementación a través de GTM, por facilid
 
 ## Validar la implementación
 
-Asociado a cada flujo de datos que hayamos creado tenemos un mensaje informativo que nos indica si se están recogiendo o no
+Asociado a cada flujo de datos, habrá un mensaje informativo que nos indica, si se están recogiendo datos o no. Eventualmente, nos informará de si el flujo funciona, pero no nos servirá para verificar en el mo
+
+![enter image description here](https://i.imgur.com/Y4lIhel.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY4NTI5NzIxLC05MTk2NTM5MjUsLTE3MT
-c1NDE0MzgsMjczMTEwNjUyLDEwMjg0MDM5MjAsLTE3NjI4MTAw
-NzQsLTIxMTE0MzAxNTFdfQ==
+eyJoaXN0b3J5IjpbNDQyMzM2MzIsLTkxOTY1MzkyNSwtMTcxNz
+U0MTQzOCwyNzMxMTA2NTIsMTAyODQwMzkyMCwtMTc2MjgxMDA3
+NCwtMjExMTQzMDE1MV19
 -->
