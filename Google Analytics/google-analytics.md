@@ -18,7 +18,11 @@ GA4 fue lanzado en 2020 y, aunque sigue en beta, tenemos que comenzar a trabajar
 
 ## Crear una propiedad GA4
 
-El primero paso que tendremos que dar será crear una propiedad de GA4, puesto que las anteriores corresponden a la versión
+El primero paso que tendremos que dar será crear una propiedad de GA4, puesto que las actuales corresponden a la versión que quedará obsoleta a partir del verano de 2023.
+
+> En la guía oficial de Google nos explican cómo crear una propiedad GA4
+
+Lo que haremos será que ambas propiedades convivan, recogiendo información al mismo tiempo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTEzNjQ3MiwtMjExMTQzMDE1MV19
+eyJoaXN0b3J5IjpbNDY1ODc4MjM5LC0yMTExNDMwMTUxXX0=
 -->
