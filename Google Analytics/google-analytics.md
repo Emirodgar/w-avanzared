@@ -31,12 +31,15 @@ Lo que haremos será que ambas propiedades convivan, recogiendo información al 
 
 Hay varios escenarios para comenzar a registrar información. 
 
+### Instalar el código directamente sobre la web
 
  1. Añadir los dos códigos a la página. Por un lado, tendremos `analytics.js` (GA3) y por otro `gtag.js` (GA4). Cada código será independiente.
  2. Empleamos únicamente el código `gtag.js` y enviamos el flujo de información a las dos propiedades (GA3 y GA4).
 
-Nuestra recomendación es hacerlo a través del código 
+### Instalar el código desde Google Tag Manager
+
+Nuestra recomendación es hacerlo a través de GTM, por facilidad y escalabilidad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY0NjI4MjI4LC0xNzYyODEwMDc0LC0yMT
-ExNDMwMTUxXX0=
+eyJoaXN0b3J5IjpbMTAyODQwMzkyMCwtMTc2MjgxMDA3NCwtMj
+ExMTQzMDE1MV19
 -->
