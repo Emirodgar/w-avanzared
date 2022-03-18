@@ -71,7 +71,9 @@ En la siguiente ventana tendremos que rellenar los datos que nos soliciten. Para
 
 ## Instalar el código de GA4
 
-Hay varios escenarios para comenzar a registrar información. 
+Una vez que tengamos nuestro flujo de datos creado, si pulsamos sobre el mismo veremos de nuevo el ID de medición, así como las instrucciones necesarias para la instalación del código.
+
+![enter image description here](https://i.imgur.com/vrUty7h.png)
 
 ### Instalar el código directamente sobre la web
 
@@ -84,6 +86,7 @@ Nuestra recomendación es hacerlo a través de GTM, por facilidad y escalabilida
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTc1NDE0MzgsMjczMTEwNjUyLDEwMj
-g0MDM5MjAsLTE3NjI4MTAwNzQsLTIxMTE0MzAxNTFdfQ==
+eyJoaXN0b3J5IjpbLTgwNDEwNDUzOCwtMTcxNzU0MTQzOCwyNz
+MxMTA2NTIsMTAyODQwMzkyMCwtMTc2MjgxMDA3NCwtMjExMTQz
+MDE1MV19
 -->
