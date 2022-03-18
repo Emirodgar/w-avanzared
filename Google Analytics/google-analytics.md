@@ -65,6 +65,10 @@ Si no aparece, o simplemente queremos crear otro, pulsamos sobre `Añadir flujo`
 
 ![enter image description here](https://i.imgur.com/8aq3JOa.png)
 
+En la siguiente ventana tendremos que rellenar los datos que nos soliciten. Para el caso de un nuevo flujo web, serán la URL del dominio y el nombre del flujo. Recomiendo dejar el resto de opciones tal como están
+
+![enter image description here](https://i.imgur.com/8h1siBy.png)
+
 ## Instalar el código de GA4
 
 Hay varios escenarios para comenzar a registrar información. 
@@ -80,6 +84,6 @@ Nuestra recomendación es hacerlo a través de GTM, por facilidad y escalabilida
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ1MTkxNzc2LDI3MzExMDY1MiwxMDI4ND
-AzOTIwLC0xNzYyODEwMDc0LC0yMTExNDMwMTUxXX0=
+eyJoaXN0b3J5IjpbLTEwNTIwMTM3ODYsMjczMTEwNjUyLDEwMj
+g0MDM5MjAsLTE3NjI4MTAwNzQsLTIxMTE0MzAxNTFdfQ==
 -->
