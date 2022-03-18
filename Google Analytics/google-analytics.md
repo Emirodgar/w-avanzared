@@ -95,9 +95,11 @@ Este código debe ser insertado justo al principio de la etiqueta `<head>`.
 
 Nuestra recomendación es hacer la implementación a través de GTM, por facilidad y escalabilidad. En este caso necesitaríamos crear una nueva etiqueta de e incluir el ID que nos hayan generado. En nuestro ejemplo sería `G-5YP5FZCQ8W`.
 
+> Si hacemos uso de algún CMS lo más seguro es que ya existan plugins que nos permitan instalar directamente el código a partir del ID de la propiedad. Usa esta tabla para saber si tu plataforma es compatible con
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA4NDExMDYyLC05MTk2NTM5MjUsLTE3MT
-c1NDE0MzgsMjczMTEwNjUyLDEwMjg0MDM5MjAsLTE3NjI4MTAw
-NzQsLTIxMTE0MzAxNTFdfQ==
+eyJoaXN0b3J5IjpbLTQ5MTQ4MTcyNywtOTE5NjUzOTI1LC0xNz
+E3NTQxNDM4LDI3MzExMDY1MiwxMDI4NDAzOTIwLC0xNzYyODEw
+MDc0LC0yMTExNDMwMTUxXX0=
 -->
