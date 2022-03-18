@@ -35,7 +35,7 @@ Justo al lado hay un botón que dice "Empezar". Hacemos clic sobre el mismo para
 
 En la siguiente imagen recibimos un aviso tranquilizador en el que se nos indica que la propiedad Universal Analytics actual no se verá afectada. Podemos avanzar con tranquilidad.
 
-Tenemos od
+Tenemos dos opciones, conectar a esta cuenta una propiedad GA4 ya existente, o crear una nueva. En este punto, pulsamos sobre el botón de "Cómo empezar" para crear nuestra propiedad de GA4.
 
 ![enter image description here](https://i.imgur.com/NuMJBfM.png)
 
@@ -58,6 +58,6 @@ Nuestra recomendación es hacerlo a través de GTM, por facilidad y escalabilida
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzc1NTM4NTcsMjczMTEwNjUyLDEwMj
-g0MDM5MjAsLTE3NjI4MTAwNzQsLTIxMTE0MzAxNTFdfQ==
+eyJoaXN0b3J5IjpbLTMyMTQ0NTA4NiwyNzMxMTA2NTIsMTAyOD
+QwMzkyMCwtMTc2MjgxMDA3NCwtMjExMTQzMDE1MV19
 -->
