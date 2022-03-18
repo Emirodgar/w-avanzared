@@ -53,6 +53,10 @@ Si pulsamos sobre el botón de "Ver propiedad GA4" iremos al panel de configurac
 
 Google Analytics Universal era relativamente sencillo de usar; incluíamos el código en la página y los datos aparecían en la herramienta. GA4, por su naturaleza integradora de varios flujos de información (web, app, etc.) necesita que se configure previamente la fuente de origen de los datos que vamos a procesar.
 
+Si hemos creado la propiedad GA4 a partir de una GA3 existente, se habvrá crea 
+
+![enter image description here](https://i.imgur.com/PNMVN6Q.png)
+
 ## Instalar el código de GA4
 
 Hay varios escenarios para comenzar a registrar información. 
@@ -68,6 +72,6 @@ Nuestra recomendación es hacerlo a través de GTM, por facilidad y escalabilida
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjM3Mzg4NDYsMjczMTEwNjUyLDEwMj
-g0MDM5MjAsLTE3NjI4MTAwNzQsLTIxMTE0MzAxNTFdfQ==
+eyJoaXN0b3J5IjpbODc4OTA2MzYwLDI3MzExMDY1MiwxMDI4ND
+AzOTIwLC0xNzYyODEwMDc0LC0yMTExNDMwMTUxXX0=
 -->
