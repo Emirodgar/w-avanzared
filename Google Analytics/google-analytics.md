@@ -89,11 +89,11 @@ El código de GA4 usa el objeto `gtag.js`, el mismo que la versión [Global Site
       gtag('config', 'G-5YP5FZCQ8W');
     </script>
 
-Nuestra recomendación es hacer la implementación a través de GTM, por facilidad y escalabilidad. En este caso necesitaríamos crear una nueva etiqueta de e incluir el ID
+Nuestra recomendación es hacer la implementación a través de GTM, por facilidad y escalabilidad. En este caso necesitaríamos crear una nueva etiqueta de e incluir el ID que nos hayan generado. En nuestro ejemplo sería `G-5YP5FZCQ8W`.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzAxMDQ1NTcsLTE3MTc1NDE0MzgsMj
-czMTEwNjUyLDEwMjg0MDM5MjAsLTE3NjI4MTAwNzQsLTIxMTE0
-MzAxNTFdfQ==
+eyJoaXN0b3J5IjpbLTkxOTY1MzkyNSwtMTcxNzU0MTQzOCwyNz
+MxMTA2NTIsMTAyODQwMzkyMCwtMTc2MjgxMDA3NCwtMjExMTQz
+MDE1MV19
 -->
