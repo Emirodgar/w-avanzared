@@ -16,6 +16,9 @@ Google ha anunciado que [en julio de 2023, Google Analytics Universal dejará de
 
 GA4 fue lanzado en 2020 y, aunque sigue en beta, tenemos que comenzar a trabajar en la migración, ya que, aunque aún queda tiempo, la nueva plataforma utiliza un método disruptivo tanto en la medición como en la visualización de la información.
 
+1. 
+{:toc}
+
 ## Crear una propiedad GA4
 
 El primero paso que tendremos que dar será crear una propiedad de GA4, puesto que las actuales corresponden a la versión que quedará obsoleta a partir del verano de 2023.
@@ -24,5 +27,6 @@ El primero paso que tendremos que dar será crear una propiedad de GA4, puesto q
 
 Lo que haremos será que ambas propiedades convivan, recogiendo información al mismo tiempo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1ODc4MjM5LC0yMTExNDMwMTUxXX0=
+eyJoaXN0b3J5IjpbLTE3NjI4MTAwNzQsLTIxMTE0MzAxNTFdfQ
+==
 -->
