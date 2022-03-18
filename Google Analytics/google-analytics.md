@@ -25,6 +25,12 @@ El primer paso que tendremos que dar será crear una propiedad de GA4, puesto qu
 
 Se puede crear una nueva propiedad de GA4 en cualquier cuenta existente de Analytics. Al generarla, no mantendrá histórico, ya que empieza desde cero, por lo que es importante que convivan ambas propiedades (GA3 con histórico y GA4 con los datos recogidos a partir del momento de su creación).
 
+Si accedemos a una cuenta de Analytics, veremos un mensaje en la parte superior con el siguiente texto:
+
+> Universal Analytics dejará de procesar nuevos datos en propiedades estándar a partir del 1 de julio del 2023. Puede prepararse ya cambiando a una propiedad Google Analytics 4 y configurándola.
+
+Justo al lado hay un botón que dice "Empezar". Hacemos clic sobre el mismo para comenzar el proceso de migración a una propiedad de GA4.
+
 > En la [guía oficial de Google](https://seranking.com/blog/google-analytics-setup/) nos explican cómo crear una propiedad GA4
 
 Lo que haremos será que ambas propiedades convivan, recogiendo información al mismo tiempo.
@@ -41,7 +47,9 @@ Hay varios escenarios para comenzar a registrar información.
 ### Instalar el código desde Google Tag Manager
 
 Nuestra recomendación es hacerlo a través de GTM, por facilidad y escalabilidad.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjczMTEwNjUyLDEwMjg0MDM5MjAsLTE3Nj
-I4MTAwNzQsLTIxMTE0MzAxNTFdfQ==
+eyJoaXN0b3J5IjpbLTQ4NDgwMjQzMCwyNzMxMTA2NTIsMTAyOD
+QwMzkyMCwtMTc2MjgxMDA3NCwtMjExMTQzMDE1MV19
 -->
