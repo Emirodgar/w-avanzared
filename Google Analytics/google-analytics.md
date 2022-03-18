@@ -77,8 +77,17 @@ Una vez que tengamos nuestro flujo de datos creado, si pulsamos sobre el mismo v
 
 ### Instalar el código directamente sobre la web
 
- 1. Añadir los dos códigos a la página. Por un lado, tendremos `analytics.js` (GA3) y por otro `gtag.js` (GA4). Cada código será independiente.
- 2. Empleamos únicamente el código `gtag.js` y enviamos el flujo de información a las dos propiedades (GA3 y GA4).
+El código de GA4 usa el objeto `gtag.js`, el mismo que ya se estaba usando
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5YP5FZCQ8W"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'G-5YP5FZCQ8W');
+    </script>
 
 ### Instalar el código desde Google Tag Manager
 
@@ -86,7 +95,7 @@ Nuestra recomendación es hacerlo a través de GTM, por facilidad y escalabilida
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNDEwNDUzOCwtMTcxNzU0MTQzOCwyNz
-MxMTA2NTIsMTAyODQwMzkyMCwtMTc2MjgxMDA3NCwtMjExMTQz
-MDE1MV19
+eyJoaXN0b3J5IjpbNTQ5MzI5ODM5LC0xNzE3NTQxNDM4LDI3Mz
+ExMDY1MiwxMDI4NDAzOTIwLC0xNzYyODEwMDc0LC0yMTExNDMw
+MTUxXX0=
 -->
