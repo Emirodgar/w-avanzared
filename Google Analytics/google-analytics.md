@@ -57,9 +57,11 @@ Si hemos creado la propiedad GA4 a partir de una GA3 existente, se habrá creado
 
 ![enter image description here](https://i.imgur.com/PNMVN6Q.png)
 
-En el siguiente menú
+En el siguiente menú debe aparecernos un elemento dentro de la tabla de flujos de datos.
 
+![enter image description here](https://i.imgur.com/PUeF2fv.png)
 
+Si no aparece, o simplemente queremos crear otro, pulsamos sobre `Añadir flujo`.
 
 ## Instalar el código de GA4
 
@@ -76,6 +78,6 @@ Nuestra recomendación es hacerlo a través de GTM, por facilidad y escalabilida
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwNzkzNjY4LDI3MzExMDY1MiwxMDI4ND
-AzOTIwLC0xNzYyODEwMDc0LC0yMTExNDMwMTUxXX0=
+eyJoaXN0b3J5IjpbLTE1MTU4NjU4MjQsMjczMTEwNjUyLDEwMj
+g0MDM5MjAsLTE3NjI4MTAwNzQsLTIxMTE0MzAxNTFdfQ==
 -->
