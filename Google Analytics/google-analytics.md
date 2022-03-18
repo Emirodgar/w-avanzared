@@ -61,7 +61,9 @@ En el siguiente menú debe aparecernos un elemento dentro de la tabla de flujos 
 
 ![enter image description here](https://i.imgur.com/PUeF2fv.png)
 
-Si no aparece, o simplemente queremos crear otro, pulsamos sobre `Añadir flujo`. Ahora se nos presentarán
+Si no aparece, o simplemente queremos crear otro, pulsamos sobre `Añadir flujo`. Ahora se nos presentarán varias opciones; debemos seleccionar el origen de los nuevos datos, los cuales serán integrados con cualquier otro flujo que ya exista. Esto es sin duda una de las grandes ventajas de GA4 frente a las versiones anteriores.
+
+![enter image description here](https://i.imgur.com/8aq3JOa.png)
 
 ## Instalar el código de GA4
 
@@ -78,6 +80,6 @@ Nuestra recomendación es hacerlo a través de GTM, por facilidad y escalabilida
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4ODE2MjczMCwyNzMxMTA2NTIsMTAyOD
-QwMzkyMCwtMTc2MjgxMDA3NCwtMjExMTQzMDE1MV19
+eyJoaXN0b3J5IjpbNTQ1MTkxNzc2LDI3MzExMDY1MiwxMDI4ND
+AzOTIwLC0xNzYyODEwMDc0LC0yMTExNDMwMTUxXX0=
 -->
