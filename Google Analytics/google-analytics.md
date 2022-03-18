@@ -103,11 +103,13 @@ Asociado a cada flujo de datos, habrá un mensaje informativo que nos indica, si
 
 ![enter image description here](https://i.imgur.com/Y4lIhel.png)
 
-Para ello lo mejor será acceder a la web (para que el código de GA4 se ejecute) y hacer uso del informe en tiempo real
+Para ello lo mejor será acceder a la web (para que el código de GA4 se ejecute) y hacer uso del informe en tiempo real para constatar que, al menos nosotros, aparecemos en el informe.
+
+![enter image description here](https://i.imgur.com/Ori3yvb.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzE2MjM1NSwtOTE5NjUzOTI1LC0xNz
+eyJoaXN0b3J5IjpbLTY2MDA1MTY4OSwtOTE5NjUzOTI1LC0xNz
 E3NTQxNDM4LDI3MzExMDY1MiwxMDI4NDAzOTIwLC0xNzYyODEw
 MDc0LC0yMTExNDMwMTUxXX0=
 -->
