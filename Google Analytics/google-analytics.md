@@ -99,13 +99,15 @@ Nuestra recomendación es hacer la implementación a través de GTM, por facilid
 
 ## Validar la implementación
 
-Asociado a cada flujo de datos, habrá un mensaje informativo que nos indica, si se están recogiendo datos o no. Eventualmente, nos informará de si el flujo funciona, pero no nos servirá para verificar en el mo
+Asociado a cada flujo de datos, habrá un mensaje informativo que nos indica, si se están recogiendo datos o no. Eventualmente, nos informará de si el flujo funciona, pero no nos servirá para verificar en el momento si todo está funcionando bien.
 
 ![enter image description here](https://i.imgur.com/Y4lIhel.png)
 
+Para ello lo mejor será acceder a la web (para que el código de GA4 se ejecute) y hacer uso del informe en tiempo real
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyMzM2MzIsLTkxOTY1MzkyNSwtMTcxNz
-U0MTQzOCwyNzMxMTA2NTIsMTAyODQwMzkyMCwtMTc2MjgxMDA3
-NCwtMjExMTQzMDE1MV19
+eyJoaXN0b3J5IjpbLTY2NzE2MjM1NSwtOTE5NjUzOTI1LC0xNz
+E3NTQxNDM4LDI3MzExMDY1MiwxMDI4NDAzOTIwLC0xNzYyODEw
+MDc0LC0yMTExNDMwMTUxXX0=
 -->
