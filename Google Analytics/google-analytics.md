@@ -79,6 +79,8 @@ Una vez que tengamos nuestro flujo de datos listo, debemos pulsar sobre el mismo
 
 El código de GA4 usa el objeto `gtag.js`, el mismo que la versión [Global Site Tag](https://emirodgar.com/versiones-google-analytics) y diferente al `analytics.js` de la versión GA3. En nuestro caso habremos recibido un código similar al siguiente para que incluyamos en nuestra web.
 
+Este código debe ser insertado justo al principio de la etiqueta `<head>`.
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-5YP5FZCQ8W"></script>
     <script>
@@ -93,7 +95,7 @@ Nuestra recomendación es hacer la implementación a través de GTM, por facilid
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NjI3NTcyNSwtOTE5NjUzOTI1LC0xNz
-E3NTQxNDM4LDI3MzExMDY1MiwxMDI4NDAzOTIwLC0xNzYyODEw
-MDc0LC0yMTExNDMwMTUxXX0=
+eyJoaXN0b3J5IjpbNzAyNjI3NDczLC05MTk2NTM5MjUsLTE3MT
+c1NDE0MzgsMjczMTEwNjUyLDEwMjg0MDM5MjAsLTE3NjI4MTAw
+NzQsLTIxMTE0MzAxNTFdfQ==
 -->
